@@ -6,7 +6,7 @@
 
 1c). Escreva qual foi a melhor aproximação conseguida, a mais eficiente (de menor grau n para o mesmo limite de erro máximo). 
 
-Obs.: Teste o erro máximo em todo o intervalo [ 0; +pi/2 ].
+Obs.: Teste o erro máximo em todo o intervalo [ 0; pi/2 ].
 
 2). Ajuste os m=7 pontos experimentais abaixo, através de:
 
