@@ -1,5 +1,5 @@
 1). Faça o armazenamento dos números decimais abaixo em variável float (single) e double, nesse link VPL.
-Imprima o respectivo s, e, f, em binário ( calculados manualmente), do armazenamento em float (single) e em double;
+Imprima o respectivo s, e, f, em binário (calculados manualmente), do armazenamento em float (single) e em double;
 Imprima-os com 20 dígitos decimais significativos, em  float e double.
 Imprima o erro estimado de arredondamento percentual gerado:
 1a). -20.125;
