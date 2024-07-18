@@ -12,10 +12,11 @@ Obs.: Teste o erro máximo em todo o intervalo [ 0; pi/2 ].
 
 - funções polinomiais de grau n entre 1 a 6, escolha o grau n que melhor represente os m pontos, e
 
-- função racional: g(x)=a(1)/(a(2)+a(3)*x²):
+- função racional: g(x)=a(1)/(a(2)+a(3)*x²):  
 
-x = [ 1.2   1.5   2.     4.     6.     10.   15. ]
-y = [ 0.45 0.40 0.33 0.20 0.14 0.10 0.06 ]
+x = [ 1.2   1.5   2.     4.     6.     10.   15. ]  
+y = [ 0.45 0.40 0.33 0.20 0.14 0.10 0.06 ]  
+
 O valor inicial, Ci, pode ser determinado por interpolação da função exponencial aplicada de forma exata sobre 3 dos pontos dados, ou, testando diferentes valores com uso de fator de sub-relaxação no Método de Newton;
 
 Faça uma análise completa, pelos desvios totais e pelos gráficos, e defina qual foi o melhor ajuste conseguido.
